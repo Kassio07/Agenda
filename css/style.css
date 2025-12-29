@@ -1,0 +1,52 @@
+/* RESET CSS */
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+img{
+ width: 100%;
+}
+
+body{
+ position: relative;
+ height: 100vh;
+ width: 100%;
+ background-color: #d6d3d3;
+}
+
+.title-pag h1{
+ text-align: center;
+ text-transform: uppercase;
+ font-size: 1.2rem;
+ padding-bottom: 30px;
+}
+
+.formDell{
+ display: inline-block;
+}
+
+/* Header */
+header a img{
+ height: 80px;
+ border-radius: 15px;
+}
+/* FOOTER */
+footer{
+ position: fixed;
+ bottom: 0;
+ width: 100vw;
+}
+footer h1{
+ width: 100%;
+ text-align: center;
+}
+
+/* MAIN */
+main{
+ padding-top: 20px;
+ padding-bottom: 90px;
+ height: 100%;
+}
+
