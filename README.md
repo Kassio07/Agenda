@@ -6,7 +6,7 @@ Agenda de fornecedores
 Projeto de **Agenda de Fornecedores** desenvolvido com o objetivo de organizar, cadastrar e gerenciar informações de fornecedores de forma simples, prática e eficiente.
 
 A aplicação permite o controle centralizado dos dados, facilitando a consulta, atualização e manutenção das informações no dia a dia.
-
+<img src="img/readme.png" title="">
 ---
 
 ## ⚙️ Funcionalidades
